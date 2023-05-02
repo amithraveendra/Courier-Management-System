@@ -12,10 +12,10 @@ head.php
 logout.php
 usersdeleted.php
 
-2.css
+2.css:
 style.css
 
-3.home
+3.home:
 contactUs.php
 courierMenu.php
 deletecourier.php
@@ -29,6 +29,6 @@ status.php
 trackMenu.php
 updationtable.php
 
-4.images
+4.images:
 Add all images into this folder
 
